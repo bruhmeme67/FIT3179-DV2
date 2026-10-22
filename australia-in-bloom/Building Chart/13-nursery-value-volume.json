@@ -127,10 +127,6 @@
       },
       "encoding": {
         "color": {
-          "condition": {
-            "test": "datum.year == 2025",
-            "value": "#b63468"
-          },
           "value": "#147d64"
         }
       }
