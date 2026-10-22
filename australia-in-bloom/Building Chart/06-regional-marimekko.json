@@ -178,7 +178,7 @@
         "type": "text",
         "fontSize": 13,
         "fontWeight": "bold",
-        "color": "white",
+        "color": "white"
       },
       "encoding": {
         "x": {
